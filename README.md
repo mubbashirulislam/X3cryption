@@ -2,6 +2,8 @@
 
 # X3cryption
 
+![X3cryption Logo](banner.png)
+
 ## Overview
 
 X3cryption is a demonstration tool designed to illustrate how ransomware operates by simulating file encryption and decryption processes using a simple XOR-based encryption algorithm. This tool is strictly for educational purposes and is intended to help users understand the mechanics of ransomware attacks.
